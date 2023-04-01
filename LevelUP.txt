@@ -1,0 +1,9 @@
+Level Up! Tips:
+
+Gray box first
+Add SFX early!
+Be in service of the gameplay
+GDD: Write to your audience
+CCC: Camera, Control, Characters
+- Updating any of them may require a lot of rework
+- Characters can be shaped to reflect personality
